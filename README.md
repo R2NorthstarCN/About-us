@@ -12,4 +12,4 @@ Contact us:
 Official QQ group: 660908653
 
 --------
-#[中文文档](https://github.com/R2NorthstarCN/NorthStarCN_WIKI)
+# [中文文档](https://github.com/R2NorthstarCN/NorthStarCN_WIKI)
