@@ -1,3 +1,4 @@
+
 # Intro
 First of all, Me and my team want to express the depth of my gratitude to the R2Northstar organization. With out you guys working hard on this game over the years, this project will never exist. Also, huge thanks to Respawn entertainment for creating such a wonderful game in the first place.
 # Who are we
@@ -7,4 +8,8 @@ Under this Organization we will share all the translations we made to the origin
 # Links and Contacts
 The Official R2NorthstarCN Organization page: https://github.com/R2Northstar
 Contact us:
-Official QQ group: 771404197
+<!-- Official QQ group: 771404197 -->
+Official QQ group: 660908653
+
+--------
+#[中文文档](https://github.com/R2NorthstarCN/NorthStarCN_WIKI)
